@@ -5,7 +5,7 @@ William Dreese 2018
 manual data prep
 - get csv
 - use excel to delete all columns
--297 should be first blank col
+- 297 should be first blank col
 - open file with a text editor, copy and paste it into .txt file
 - ETF_NAMEdata.txt (ex: "XLVdata.txt")
 
