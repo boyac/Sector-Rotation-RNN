@@ -19,4 +19,4 @@ Industrials: XLI,
 Real Estate: IYR
 
 All .txt files are used to store data, as alphavantage has a (annoyingly-low) limit on api call requests. 
-The SectorRotationDataPrep class is used to parse out the csv files from alphavantage (when you run it for current data), as well as prepare it to train the model. SectorRotationVisuals utilizes matplotlib to graphically display the sector returns for the past two years. The model lies in the SectorRotationModel file, which uses the class from the SectorRotationDataPrep file for its training and testing data.
+The **SectorRotationDataPrep** class is used to parse out the csv files from alphavantage (when you run it for current data), as well as prepare it to train the model. **SectorRotationVisuals** utilizes matplotlib to graphically display the sector returns for the past two years. The model lies in the **SectorRotationModel** file, which uses the class from the **SectorRotationDataPrep** file for its training and testing data.
