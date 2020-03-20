@@ -1,5 +1,6 @@
 # Sector Rotation Model
 ### by William Dreese
+#### Revised by Boya Chiou
 
 A simple recurrent neural network that uses weekly changes in 10 major sector ETFs to predict which sectors will grow in the coming weeks.
 
